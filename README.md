@@ -45,7 +45,6 @@ I'm a **B.Tech Information Technology student at SKIT Jaipur**, focused on build
 - 🗄️ Learning and working with **MongoDB, SQL & PostgreSQL**
 - 🏗️ Exploring **backend architecture, scalability & system design**
 - 🔧 Interested in turning ideas into **real, usable products**
-- 📚 Currently following an **FDE-oriented learning path** covering GenAI, embeddings, retrieval and scalable application development
 
 
 <!-- =========================
