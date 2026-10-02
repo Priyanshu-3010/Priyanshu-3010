@@ -1,17 +1,19 @@
 <!-- =========================
-     HERO SECTION
+     HERO
 ========================= -->
 
-<h1 align="center">
-  Hi 👋, I'm Priyanshu
-</h1>
+<h1 align="center">Hi 👋, I'm Priyanshu</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+%2B+GenAI+Developer;Building+Real-World+Applications;Solving+DSA+Problems+Every+Day;Exploring+LLMs%2C+Embeddings+%26+Vector+Search;Learning+Scalable+Backend+Architecture;Turning+Ideas+into+Working+Products" alt="Typing SVG" />
+  Full-Stack Developer • GenAI Developer • Problem Solver
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-shekhawat/?isSelfProfile=true">
+  Building practical web applications and AI-powered products with JavaScript, Node.js, MongoDB and LLM APIs.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-shekhawat/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Priyanshu0330/">
@@ -26,52 +28,165 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Priyanshu-3010&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 
 <!-- =========================
-     ABOUT ME
+     ABOUT
 ========================= -->
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **B.Tech Information Technology student at SKIT Jaipur**, focused on building practical software and understanding how modern applications work under the hood.
+I'm a **B.Tech Information Technology student at SKIT Jaipur** focused on building real-world software and AI-powered applications.
 
-- 🚀 Building **Full Stack & AI-powered applications**
-- 🤖 Exploring **Generative AI, LLM APIs, Embeddings & Vector Search**
-- 🧠 Consistently practicing **Data Structures & Algorithms**
-- 🌐 Working with **JavaScript, Node.js, Express.js & modern web technologies**
-- 🗄️ Learning and working with **MongoDB, SQL & PostgreSQL**
-- 🏗️ Exploring **backend architecture, scalability & system design**
-- 🔧 Interested in turning ideas into **real, usable products**
+- 🔨 Building **Full-Stack web applications**
+- 🤖 Building with **LLM APIs, embeddings and RAG**
+- 🧠 Solved **450+ DSA problems** across coding platforms
+- ⚙️ Working primarily with **JavaScript, Node.js and Express.js**
+- 🗄️ Working with **MongoDB, SQL and PostgreSQL**
+- 🔍 Exploring **vector search, KNN, ANN and efficient retrieval**
+- 🚀 Interested in **backend engineering, AI applications and scalable systems**
 
 
 <!-- =========================
-     CURRENTLY BUILDING
+     FEATURED PROJECTS
 ========================= -->
 
-## 🚧 What I'm Currently Building & Learning
+## Featured Projects
+
+### 🤖 Potato — AI Food Delivery Chatbot
+
+An AI-powered food delivery assistant built with **Node.js, Express.js and Gemini APIs**.
+
+**What I built:**
+- Conversational food-ordering assistant
+- LLM integration using Gemini
+- Context-aware conversation handling
+- Vector embeddings and cosine similarity
+- RAG implementation for grounded responses
+- Streaming AI responses
+- Web search integration
+- Backend REST APIs
+
+**Tech:** `Node.js` `Express.js` `Gemini API` `MongoDB` `Embeddings` `RAG` `JavaScript`
+
+🔗 **Repository:** [Potato Food Delivery Chatbot](YOUR_POTATO_REPO_LINK)
+
+
+### 💰 Expense Tracker — MERN Stack
+
+A full-stack expense management application for tracking and managing personal expenses.
+
+**What I built:**
+- Expense creation and management
+- REST API based backend
+- MongoDB database integration
+- Frontend-backend communication
+- Expense data organization and visualization
+
+**Tech:** `MongoDB` `Express.js` `React` `Node.js`
+
+🔗 **Repository:** [Expense Tracker](YOUR_EXPENSE_TRACKER_REPO_LINK)
+
+
+### 🔗 URL Shortener — Node.js & MongoDB
+
+A URL shortening service built with **Node.js, Express.js and MongoDB**.
+
+**What I built:**
+- URL shortening API
+- Unique short URL generation
+- MongoDB persistence
+- REST API architecture
+- Server-side routing
+- Static frontend integration
+
+**Tech:** `Node.js` `Express.js` `MongoDB` `JavaScript`
+
+🔗 **Repository:** [URL Shortener](YOUR_URL_SHORTENER_REPO_LINK)
+
+
+<!-- =========================
+     TECHNICAL SKILLS
+========================= -->
+
+## Technical Skills
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,js,python,sql" />
+</p>
+
+### Full Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### AI / GenAI
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`LLM APIs` • `Gemini` • `Prompt Engineering` • `Embeddings` • `Cosine Similarity` • `RAG` • `Vector Search`
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
+
+
+<!-- =========================
+     DSA
+========================= -->
+
+## Problem Solving
+
+- **450+ DSA problems solved**
+- Regularly practicing Data Structures & Algorithms
+- Focus areas:
+  - Arrays & Strings
+  - Binary Search
+  - Linked Lists
+  - Stack & Queue
+  - Trees & BST
+  - Graphs
+  - Greedy
+  - Dynamic Programming
+  - Sliding Window
+  - Two Pointers
+  - DSU
+
+🔗 **LeetCode:** [Priyanshu0330](https://leetcode.com/u/Priyanshu0330/)
+
+
+<!-- =========================
+     CURRENT FOCUS
+========================= -->
+
+## Currently Working On
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  🤖 GenAI Applications                                      │
-│     └─ Gemini APIs • LLM Integration • AI-powered Apps      │
-│                                                              │
-│  🧠 AI / Vector Search                                      │
-│     └─ Embeddings • KNN • ANN • IVF • Similarity Search     │
-│                                                              │
-│  🌐 Full Stack Development                                  │
-│     └─ React • Node.js • Express.js • REST APIs             │
-│                                                              │
-│  🗄️ Databases                                               │
-│     └─ MongoDB • SQL • PostgreSQL                            │
-│                                                              │
-│  🧩 Problem Solving                                         │
-│     └─ DSA • LeetCode • Pattern Recognition                 │
-│                                                              │
-│  🏗️ Engineering                                             │
-│     └─ Backend Architecture • Scalability • System Design   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+GenAI
+├── RAG pipelines
+├── Embeddings
+├── Vector Search
+├── KNN / ANN / IVF
+└── LLM application architecture
+
+Backend
+├── Node.js
+├── Express.js
+├── REST APIs
+├── MongoDB
+└── Backend architecture
+
+Problem Solving
+├── DSA
+├── LeetCode
+└── Algorithmic problem solving
