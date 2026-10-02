@@ -71,7 +71,7 @@ An AI-powered food delivery assistant built with **Node.js, Express.js and Gemin
 
 **Tech:** `Node.js` `Express.js` `Gemini API` `MongoDB` `Embeddings` `RAG` `JavaScript`
 
-🔗 **Repository:** [Potato Food Delivery Chatbot](YOUR_POTATO_REPO_LINK)
+🔗 **Repository:** [Potato Food Delivery Chatbot](https://github.com/Priyanshu-3010/potato-food-delivery-chatbot)
 
 
 ### 💰 Expense Tracker — MERN Stack
@@ -104,7 +104,7 @@ A URL shortening service built with **Node.js, Express.js and MongoDB**.
 
 **Tech:** `Node.js` `Express.js` `MongoDB` `JavaScript`
 
-🔗 **Repository:** [URL Shortener](YOUR_URL_SHORTENER_REPO_LINK)
+🔗 **Repository:** [URL Shortener](https://github.com/Priyanshu-3010/URL-Shortner)
 
 
 <!-- =========================
