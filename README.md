@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/priyanshu-shekhawat/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/Priyanshu0330/">
+  <a href="">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://github.com/Priyanshu-3010">
